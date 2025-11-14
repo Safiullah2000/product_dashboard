@@ -27,6 +27,7 @@ This app allows viewing, adding, editing, and filtering products with responsive
     flutter run -d chrome
 
 ## 🗂️ Folder Structure
+```
 lib/
 ├── core/
 │ ├── theme/
@@ -42,6 +43,7 @@ lib/
 │ ├── pages/ # ProductListPage, ProductDetailsPage
 │ ├── widgets/ # Reusable widgets (DataTable, forms, etc.)
 └── main.dart
+```
 
 **Reasoning:**  
 - **Feature-based structure** improves scalability and modularity.  
