@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "inStock": true,
+    "description": "Comfortable wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Coffee Mug",
+    "category": "Home",
+    "price": 12.5,
+    "inStock": true,
+    "description": "Ceramic coffee mug, 12oz."
+  },
+  {
+    "id": 3,
+    "name": "Office Chair",
+    "category": "Furniture",
+    "price": 199.0,
+    "inStock": false,
+    "description": "Ergonomic office chair with lumbar support."
+  },
+  {
+    "id": 4,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 599.99,
+    "inStock": true,
+    "description": "Latest model smartphone with 128GB storage and OLED display."
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 349.0,
+    "inStock": true,
+    "description": "Height adjustable standing desk for home or office use."
+  },
+  {
+    "id": 6,
+    "name": "LED Desk Lamp",
+    "category": "Home",
+    "price": 29.99,
+    "inStock": false,
+    "description": "Energy-efficient LED desk lamp with adjustable brightness."
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 49.5,
+    "inStock": true,
+    "description": "Portable Bluetooth speaker with 10-hour battery life."
+  },
+  {
+    "id": 8,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 120.0,
+    "inStock": false,
+    "description": "Wooden bookshelf with 5 shelves, perfect for home or office."
+  }
+]
